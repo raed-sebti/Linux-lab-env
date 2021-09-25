@@ -3,4 +3,5 @@
 1) Install vagrant
 2) Install Virtualbox
 3) Run vagrant up --provider=virtualbox 
-4) vagrant ssh  
+4) Grap a coffee
+5) Run vagrant ssh  
