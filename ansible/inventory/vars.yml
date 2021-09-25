@@ -1,0 +1,5 @@
+---
+all:
+  hosts:
+    server:
+      node_ip: 172.22.22.101
